@@ -24,7 +24,7 @@ I am a industrial engineer who decided having a new career path on software deve
 <a href="https://twitter.com/asyailkturk">
   <img align="left" alt="Asya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/asya-ilktürk">
+<a href="https://www.linkedin.com/in/asya-ilkturk">
   <img align="left" alt="Asya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
