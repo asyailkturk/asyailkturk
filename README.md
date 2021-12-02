@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://c.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif" width="228" height="228" />
 
-I'm a back-end developer.
+I'm a software developer.
 
 I am a industrial engineer who decided having a new career path on software development. Open to learn new technologies and especially worked on web programming. Trying to learn something new everday. 
 
