@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 I'm a software developer.
 
-I am a industrial engineer who decided having a new career path on software development. Open to learn new technologies and especially worked on web programming. Trying to learn something new everday. 
 
 ### Let's connect:
 <a href="https://twitter.com/asyailkturk">
